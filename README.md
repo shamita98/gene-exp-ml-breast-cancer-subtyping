@@ -8,7 +8,7 @@ Expression Order Representations' (doi: [https://doi.org/10.1016/j.cmpb.2026.109
 Breast cancer subtype classification relies on RNA-seq expression profiles to aid personalized treatment. However, existing approaches lack robustness due to technical noise across different RNA-seq datasets. 
 
 ## Methods
-The manuscript proposes a machine learning approach that uses relative gene expression order representations to capture biological variation while minimizing cross-sample dependence for improving the robustness of subtype classification across various technical settings. Two types of representations are derived based on relative gene expression order within each sample:
+The paper presents a machine learning approach that uses relative gene expression order representations to capture biological variation while minimizing cross-sample dependence for improving the robustness of subtype classification across various technical settings. Two types of representations are derived based on relative gene expression order within each sample:
  - Rank-normalization: replaces gene expression values with their within-sample ranks
  - Word2vec embeddings: converts sorted gene identifiers into textual sequences, then encodes them into dense vectors using the word2vec model.
 
