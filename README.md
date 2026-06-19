@@ -1,8 +1,8 @@
 # Breast Cancer Subtype Classification Using Relative Gene Expression Order Representations
 
-This repository contains the code files associated with the manuscript 'A Robust Machine Learning Approach for Breast
+This repository contains the code files associated with the research article 'A Robust Machine Learning Approach for Breast
 Cancer Subtype Classification Using Relative Gene
-Expression Order Representations', which is currently under review.
+Expression Order Representations' (doi: [https://doi.org/10.1016/j.cmpb.2026.109510](https://doi.org/10.1016/j.cmpb.2026.109510)).
 
 ## Problem Statement
 Breast cancer subtype classification relies on RNA-seq expression profiles to aid personalized treatment. However, existing approaches lack robustness due to technical noise across different RNA-seq datasets. 
