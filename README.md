@@ -50,3 +50,25 @@ conda activate brca-subtyping
 - Jupyter Notebook
 - RStudio
 
+## Citation
+
+If you use this code or build upon this work in your research, please cite:
+
+> Uma Kandan, S., & Abul, O. (2026). A robust machine learning approach for breast cancer subtype classification using relative gene expression order representations. Computer Methods and Programs in Biomedicine, 285, 109510. doi:https://doi.org/10.1016/j.cmpb.2026.109510
+
+BibTeX:
+
+```bibtex
+@article{UMAKANDAN2026109510,
+  title = {A robust machine learning approach for breast cancer subtype classification using relative gene expression order representations},
+  author = {Shamita {Uma Kandan} and Osman Abul},
+  journal = {Computer Methods and Programs in Biomedicine},
+  volume = {285},
+  pages = {109510},
+  year = {2026},
+  issn = {0169-2607},
+  doi = {10.1016/j.cmpb.2026.109510},
+  url = {https://www.sciencedirect.com/science/article/pii/S0169260726002609}
+}
+```
+
